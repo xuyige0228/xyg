@@ -8,6 +8,9 @@
     </p>
     <h3>Installed CLI Plugins</h3>
 
+    
+    <h1>在dev上添加</h1>
+
   </div>
 </template>
 
