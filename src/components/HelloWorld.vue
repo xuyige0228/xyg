@@ -8,6 +8,9 @@
     </p>
     <h3>Installed CLI Plugins</h3>
 
+
+    
+    <h1>这是在master上添加的</h1>
   </div>
 </template>
 
